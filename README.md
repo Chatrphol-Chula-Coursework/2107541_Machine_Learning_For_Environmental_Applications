@@ -1,6 +1,6 @@
 
 # 2107541 Machine Learning for Environmental Application
-![Coverpage](https://github.com/Chatrphol-Chula-Coursework/2107541_Machine_Learning_For_Environmental_Applications/blob/main/2107541_CoverPage.png) 
+![Coverpage](https://github.com/Chatrphol-Chula-Coursework/2107541_Machine_Learning_For_Environmental_Applications/blob/main/2107541_Coverpage.jpg) 
 
 Section 1, Semester 2026/1
 Instructor: Dr. Thitiwut Maliwan, Department of Environmental Engineering, Chulalongkorn University
@@ -39,8 +39,7 @@ Class time: Wednesday, 13:00–16:00
 | 7 | 16 Sep 2026 | Regularized Regression, Model Evaluation | [Lecture 6](https://github.com/Chatrphol-Chula-Coursework/2107541_Machine_Learning_For_Environmental_Applications/tree/main/Lecture%206%20Linear%20Regression%20II%20%26%20Model%20Evaluation) |
 | 8 | 30 Sep 2026 | Holiday (Commencement Ceremony) | - |
 | 9 | 7 Oct 2026 | Ensemble Learning | [Lecture 7](https://github.com/Chatrphol-Chula-Coursework/2107541_Machine_Learning_For_Environmental_Applications/tree/main/Lecture%207%20Ensemble%20Learning) |
-| 10 | 14 Oct 2026 | Clustering: K-means, Hierarchical | [Lecture 8](https://github.com/Chatrphol-Chula-Coursework/2107541_Machine_Learning_For_Environmental_Applications/tree/main/Lecture%208%20Clustering) |
-| 11 | 21 Oct 2026 | Clustering: DBSCAN, Cluster Validation | [Lecture 8](https://github.com/Chatrphol-Chula-Coursework/2107541_Machine_Learning_For_Environmental_Applications/tree/main/Lecture%208%20Clustering) |
+| 10–11 | 14 & 21 Oct 2026 | Clustering: K-means, Hierarchical, DBSCAN, Cluster Validation | [Lecture 8](https://github.com/Chatrphol-Chula-Coursework/2107541_Machine_Learning_For_Environmental_Applications/tree/main/Lecture%208%20Clustering) |
 | 12 | 28 Oct 2026 | Feature Selection & Explainable ML | - |
 | 13 | 4 Nov 2026 | Dimensionality Reduction: PCA, t-SNE | - |
 | 14 | 11 Nov 2026 | Time-series Analysis: Forecasting | - |
